@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Memona-hafeez</h1>
-<h3 align="center">Junior Ai Engineer || BSAI student || Building the Future of AI || Chatbots, Machine Learning, Deep Learning and More</h3>
+<h3 align="center">Junior Ai Engineer || "BSAI" || Passionate about ML,DL and NLP </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=memona-hafeez&label=Profile%20views&color=0e75b6&style=flat" alt="memona-hafeez" /> </p>
 
