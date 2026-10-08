@@ -1,60 +1,55 @@
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
+<div align="center">
 
-<h1 align="center">
- <a href="https://github.com/Memona-Hafeez">
- <img width="40%" src="https://media0.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif?cid=ecf05e47qjg85psbj19i4as0jyjettm8o58u5jnt90dh6rgr&rid=giphy.gif"> </a>
-</h1>
- 
-<h3> 👋 Hi, I’m Memona Hafeez. <img src="./butterfly.gif" width=20%><img src="./dog.gif" width=20%> </h3> 
-<h3> 👀 I’m interested in NLP. </h3> 
-<h3> 🌱 I’m currently learning & implementing NLP. </h3> 
-<h3> 💞️ I’m looking to collaborate on AI projects. </h3> 
-<h3> 📫 Reach me at my: 
-<br> <br>
-📌
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f172a,100:2563eb&text=Memona%20Hafeez&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=AI%20%2F%20NLP%20Engineer%20%C2%B7%20Security-Focused%20Machine%20Learning&descAlignY=60&descSize=16" width="100%" alt="Memona Hafeez" />
 
-<a href="https://www.linkedin.com/in/Memona-Hafeez/">
- <img align="center" alt="Memona-Hafeez's LinkedIN" src="https://img.icons8.com/fluency/48/null/linkedin.png"/>
-</a>
+<a href="https://github.com/Memona-Hafeez/QRShield"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1500&color=2563EB&center=true&vCenter=true&width=640&lines=Natural+Language+Processing;Machine+Learning+%26+Applied+AI;QR+Code+%26+URL+Security+Research;Building+intelligent+products+end+to+end" alt="Focus areas" /></a>
 
-<a href="https://www.github.com/Memona-Hafeez/">
- <img align="center" alt="Memona-Hafeez's github" src="https://img.icons8.com/fluency/48/000000/github.png"/>
-</a>
- 
-<a href="mailto:Memona-Hafeez@gmail.com">
- <img align="center" alt="Memona-Hafeez's gmail" src="https://img.icons8.com/fluency/48/null/gmail-new.png"/>
-</a>
+<br/>
 
-<a href="https://www.kaggle.com/Memona-Hafeez/">
- <img align="center" alt="Memona-Hafeez's kaggle" src="https://user-images.githubusercontent.com/91178270/209803041-2d993a8b-c17b-4078-861f-b3ebca6208fc.png"/>
-</a> 
+<a href="https://www.linkedin.com/in/Memona-Hafeez/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:memonahafeez12@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.kaggle.com/Memona-Hafeez/"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+<a href="https://botifyhub.io/"><img src="https://img.shields.io/badge/Botifyhub-0f172a?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Botifyhub" /></a>
+<a href="https://www.upwork.com/freelancers/~019d5c449052f46eb2?mp_source=share"><img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" /></a>
 
-</p>
+<br/><br/>
 
-🔭 <a href="https://github.com/Memona-Hafeez"> <img src="https://komarev.com/ghpvc/?username=Memona-Hafeez&label=Profile%20views&color=0e75b6&style=flat" alt="Memona-Hafeez" /> </a>
+<img src="https://komarev.com/ghpvc/?username=Memona-Hafeez&label=Profile%20views&color=2563eb&style=flat-square" alt="Profile views" />
 
-<img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics:
+</div>
 
-<p>
- <a href="https://github.com/Memona-Hafeez">
-<img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Memona-Hafeez&show_icons=true&theme=dark"> </a> 
-</p
+---
 
-<p>
- <a href="https://github.com/Memona-Hafeez">
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Memona-Hafeez&theme=dark"> </a> 
-</p>
- 
-<p> 
- <a href="https://github.com/Memona-Hafeez">
- <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Memona-Hafeez&theme=xcode" style="border-radius: 10px; border: 1.5px solid white"> </a>
-</p> 
+## About
 
-<p align="center">
- <a href="https://github.com/Memona-Hafeez">
-<img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Memona-Hafeez&show_icons=true&theme=dark&locale=en&layout=compact" alt="Memona-Hafeez" > </a>
-</p>
+I design and ship machine-learning systems with a focus on **natural language processing** and **security-oriented AI**. My work spans research and production: from dataset design and model training to deployment as usable products.
 
-<p align="center">
-<a href="https://github.com/Memona-Hafeez"><img src="contributions.svg"></a>
-</p>
+I am open to collaborations on applied AI, NLP, and trustworthy-ML projects.
+
+## Featured Research
+
+### [QRShield](https://github.com/Memona-hafeez/QRShield)
+A QR-code security framework that combines **tamper detection on QR images** with a **malicious-URL classifier**, so a code is checked both for visual manipulation and for what it points to. The accompanying manuscript has been prepared for submission to *IEEE Access*; the repository contains the code, training notebooks, and a dataset-generation script.
+
+<a href="https://github.com/Memona-hafeez/QRShield"><img src="https://img.shields.io/badge/View%20Repository-QRShield-2563eb?style=for-the-badge&logo=github&logoColor=white" alt="QRShield repository" /></a>
+
+## Technical Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,pandas,numpy,opencv,flask,fastapi,docker,git,github,vscode,linux&theme=dark" alt="Tech stack" />
+
+</div>
+
+| Area | Tools and topics |
+| --- | --- |
+| **NLP** | Text classification, transformers, embeddings, LLM applications |
+| **Machine Learning** | Model training and evaluation, feature engineering, dataset design |
+| **Computer Vision** | Image tamper detection, QR decoding and analysis |
+| **Engineering** | REST APIs, containerization, version control, reproducible notebooks |
+
+## Let's Connect
+
+For research collaboration, freelance work, or product development, reach out through [LinkedIn](https://www.linkedin.com/in/Memona-Hafeez/) or [email](mailto:memonahafeez12@gmail.com).
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:2563eb,100:0f172a&section=footer" width="100%" alt="" />
