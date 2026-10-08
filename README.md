@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=170&color=0:0b1220,100:0f3d3e&text=Memona%20Hafeez&fontColor=f5f5f4&fontSize=46&fontAlignY=45&desc=AI%20Engineer&descAlignY=68&descSize=20" width="100%" alt="Memona Hafeez, AI Engineer" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=170&color=0:0b1220,100:0f3d3e&text=Memona%20Hafeez&fontColor=f5f5f4&fontSize=46&fontAlignY=45&desc=AI%20Engineer&descAlignY=68&descSize=20&animation=fadeIn" width="100%" alt="Memona Hafeez, AI Engineer" />
 
-RAG systems, LLM agents, n8n automation, and some security research on the side.
+<a href="https://github.com/Memona-hafeez/QRShield"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&duration=3500&pause=2200&color=0F766E&center=true&vCenter=true&width=620&height=30&lines=RAG+systems+that+stay+grounded+in+your+documents;LLM+agents+and+n8n+workflow+automation;Production+deployments+with+FastAPI+and+Docker;Security+research%3A+QR+tamper+and+URL+threat+detection" alt="RAG systems, LLM agents, n8n automation, and security research" /></a>
 
 <br/>
 
