@@ -1,16 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f172a,100:2563eb&text=Memona%20Hafeez&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=AI%20%2F%20NLP%20Engineer%20%C2%B7%20Security-Focused%20Machine%20Learning&descAlignY=60&descSize=16" width="100%" alt="Memona Hafeez" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:020617,50:1e3a8a,100:2563eb&text=Memona%20Hafeez&fontColor=ffffff&fontSize=58&fontAlignY=42&desc=AI%20Engineer%20%C2%B7%20NLP%20%C2%B7%20Security-Focused%20Machine%20Learning&descAlignY=64&descSize=18&animation=fadeIn" width="100%" alt="Memona Hafeez" />
 
-<a href="https://github.com/Memona-Hafeez/QRShield"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1500&color=2563EB&center=true&vCenter=true&width=640&lines=Natural+Language+Processing;Machine+Learning+%26+Applied+AI;QR+Code+%26+URL+Security+Research;Building+intelligent+products+end+to+end" alt="Focus areas" /></a>
+<a href="https://github.com/Memona-Hafeez/QRShield"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1600&color=60A5FA&center=true&vCenter=true&width=700&lines=Building+intelligent+systems+end+to+end;Natural+Language+Processing+%7C+Applied+ML;Researching+QR+code+%26+URL+security;Open+to+AI+research+collaborations" alt="Typing intro" /></a>
 
 <br/>
 
-<a href="https://www.linkedin.com/in/Memona-Hafeez/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:memonahafeez12@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://www.kaggle.com/Memona-Hafeez/"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
-<a href="https://botifyhub.io/"><img src="https://img.shields.io/badge/Botifyhub-0f172a?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Botifyhub" /></a>
-<a href="https://www.upwork.com/freelancers/~019d5c449052f46eb2?mp_source=share"><img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" /></a>
+<a href="https://www.linkedin.com/in/Memona-Hafeez/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://x.com/MemonaBuilds"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
+<a href="https://www.facebook.com/profile.php?id=61566842296099"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" /></a>
+<a href="https://www.kaggle.com/Memona-Hafeez/"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+<a href="https://botifyhub.io/"><img src="https://img.shields.io/badge/Botifyhub-2563EB?style=flat-square&logo=googlechrome&logoColor=white" alt="Botifyhub" /></a>
+<a href="mailto:memonahafeez12@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 
 <br/><br/>
 
@@ -18,38 +19,77 @@
 
 </div>
 
----
+<br/>
 
-## About
+## `> whoami`
 
-I design and ship machine-learning systems with a focus on **natural language processing** and **security-oriented AI**. My work spans research and production: from dataset design and model training to deployment as usable products.
+I build machine-learning systems that move from research to real products, with a focus on **natural language processing** and **security-oriented AI**. My work covers dataset design, model training and evaluation, and deployment as usable applications.
 
-I am open to collaborations on applied AI, NLP, and trustworthy-ML projects.
+```python
+class Memona:
+    role      = "AI Engineer"
+    focus     = ["NLP", "Applied Machine Learning", "AI Security"]
+    research  = "QR code tamper detection & malicious URL classification"
+    open_to   = ["Research collaboration", "Applied AI projects", "Product development"]
+```
+
+<br/>
 
 ## Featured Research
 
-### [QRShield](https://github.com/Memona-hafeez/QRShield)
-A QR-code security framework that combines **tamper detection on QR images** with a **malicious-URL classifier**, so a code is checked both for visual manipulation and for what it points to. The accompanying manuscript has been prepared for submission to *IEEE Access*; the repository contains the code, training notebooks, and a dataset-generation script.
+<table>
+<tr>
+<td width="100%">
 
-<a href="https://github.com/Memona-hafeez/QRShield"><img src="https://img.shields.io/badge/View%20Repository-QRShield-2563eb?style=for-the-badge&logo=github&logoColor=white" alt="QRShield repository" /></a>
+### [QRShield](https://github.com/Memona-hafeez/QRShield) &nbsp;<img src="https://img.shields.io/badge/IEEE%20Access-Manuscript-2563eb?style=flat-square" alt="IEEE Access manuscript" />
 
-## Technical Stack
+A QR-code security framework that checks a code twice: for **visual tampering** in the QR image itself, and for **malicious intent** in the URL it encodes through a trained classifier.
+
+- Tamper-detection pipeline evaluated on a synthetic QR image dataset with two manipulation families
+- URL classifier trained on a public malicious-URL dataset
+- Repository includes code, training notebooks, and a dataset-generation script
+
+<a href="https://github.com/Memona-hafeez/QRShield"><img src="https://img.shields.io/badge/View%20Repository-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="View repository" /></a>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## Focus Areas
+
+| | |
+| :-- | :-- |
+| 🧠 **Natural Language Processing** | Text classification, transformers, embeddings, LLM-powered applications |
+| 🛡️ **AI Security** | Malicious URL detection, QR code tamper analysis, robust model evaluation |
+| ⚙️ **Applied ML Engineering** | Feature engineering, reproducible training, APIs and deployment |
+| 👁️ **Computer Vision** | Image manipulation detection, QR decoding and analysis |
+
+<br/>
+
+## Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,pandas,numpy,opencv,flask,fastapi,docker,git,github,vscode,linux&theme=dark" alt="Tech stack" />
+**Languages & Core**
+
+<img src="https://skillicons.dev/icons?i=python,cpp,js,bash&theme=dark" alt="Languages" />
+
+**ML & Data**
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,pandas,numpy,opencv&theme=dark" alt="ML and data" />
+
+**Backend & Tooling**
+
+<img src="https://skillicons.dev/icons?i=fastapi,flask,docker,git,github,linux,vscode&theme=dark" alt="Backend and tooling" />
 
 </div>
 
-| Area | Tools and topics |
-| --- | --- |
-| **NLP** | Text classification, transformers, embeddings, LLM applications |
-| **Machine Learning** | Model training and evaluation, feature engineering, dataset design |
-| **Computer Vision** | Image tamper detection, QR decoding and analysis |
-| **Engineering** | REST APIs, containerization, version control, reproducible notebooks |
+<br/>
 
 ## Let's Connect
 
-For research collaboration, freelance work, or product development, reach out through [LinkedIn](https://www.linkedin.com/in/Memona-Hafeez/) or [email](mailto:memonahafeez12@gmail.com).
+I am always glad to talk about NLP, AI security, and applied ML. Reach me on [LinkedIn](https://www.linkedin.com/in/Memona-Hafeez/), [X](https://x.com/MemonaBuilds), or by [email](mailto:memonahafeez12@gmail.com).
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:2563eb,100:0f172a&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:2563eb,50:1e3a8a,100:020617&section=footer" width="100%" alt="" />
