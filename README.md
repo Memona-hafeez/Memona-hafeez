@@ -1,95 +1,51 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:020617,50:1e3a8a,100:2563eb&text=Memona%20Hafeez&fontColor=ffffff&fontSize=58&fontAlignY=42&desc=AI%20Engineer%20%C2%B7%20NLP%20%C2%B7%20Security-Focused%20Machine%20Learning&descAlignY=64&descSize=18&animation=fadeIn" width="100%" alt="Memona Hafeez" />
+# Memona Hafeez
 
-<a href="https://github.com/Memona-Hafeez/QRShield"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1600&color=60A5FA&center=true&vCenter=true&width=700&lines=Building+intelligent+systems+end+to+end;Natural+Language+Processing+%7C+Applied+ML;Researching+QR+code+%26+URL+security;Open+to+AI+research+collaborations" alt="Typing intro" /></a>
+### AI Engineer · RAG Systems · LLM Agents · Automation
 
-<br/>
-
-<a href="https://www.linkedin.com/in/Memona-Hafeez/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://x.com/MemonaBuilds"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
-<a href="https://www.facebook.com/profile.php?id=61566842296099"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" /></a>
-<a href="https://www.kaggle.com/Memona-Hafeez/"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
-<a href="https://botifyhub.io/"><img src="https://img.shields.io/badge/Botifyhub-2563EB?style=flat-square&logo=googlechrome&logoColor=white" alt="Botifyhub" /></a>
-<a href="mailto:memonahafeez12@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Memona-Hafeez&label=Profile%20views&color=2563eb&style=flat-square" alt="Profile views" />
+[LinkedIn](https://www.linkedin.com/in/memona-hafeez) &nbsp;·&nbsp; [Email](mailto:memonahafeez12@gmail.com) &nbsp;·&nbsp; [X](https://x.com/MemonaBuilds) &nbsp;·&nbsp; [Kaggle](https://www.kaggle.com/Memona-Hafeez/) &nbsp;·&nbsp; [Botifyhub](https://botifyhub.io/)
 
 </div>
 
-<br/>
+---
 
-## `> whoami`
+I am an AI engineer with over two years of experience turning language models into dependable software. I work with international clients on retrieval-augmented generation, multi-agent systems, and workflow automation, and I take projects from requirements through to monitored production deployment.
 
-I build machine-learning systems that move from research to real products, with a focus on **natural language processing** and **security-oriented AI**. My work covers dataset design, model training and evaluation, and deployment as usable applications.
+My research interest is the security of everyday AI-adjacent systems. **QRShield**, a framework for detecting tampered QR codes and malicious URLs, is the subject of a manuscript prepared for *IEEE Access*.
 
-```python
-class Memona:
-    role      = "AI Engineer"
-    focus     = ["NLP", "Applied Machine Learning", "AI Security"]
-    research  = "QR code tamper detection & malicious URL classification"
-    open_to   = ["Research collaboration", "Applied AI projects", "Product development"]
-```
+> **Available for** remote AI engineering roles, client engagements, and research collaboration. The fastest way to reach me is by [email](mailto:memonahafeez12@gmail.com) or [LinkedIn](https://www.linkedin.com/in/memona-hafeez).
 
-<br/>
+## Areas of Work
 
-## Featured Research
+**Retrieval and knowledge systems.** Designing chunking, embedding, and prompting strategies that improve answer accuracy and reduce hallucination, on vector stores such as Pinecone and ChromaDB.
 
-<table>
-<tr>
-<td width="100%">
+**Agents and LLM applications.** Multi-agent pipelines, fine-tuned and locally hosted models, and conversational systems with memory.
 
-### [QRShield](https://github.com/Memona-hafeez/QRShield) &nbsp;<img src="https://img.shields.io/badge/IEEE%20Access-Manuscript-2563eb?style=flat-square" alt="IEEE Access manuscript" />
+**Voice and multimodal.** Speech-to-text with Whisper combined with LLMs, and inbound voice agents.
 
-A QR-code security framework that checks a code twice: for **visual tampering** in the QR image itself, and for **malicious intent** in the URL it encodes through a trained classifier.
+**Automation.** Multi-branch n8n systems connecting finance, messaging, email, and CRM-style workflows through live APIs.
 
-- Tamper-detection pipeline evaluated on a synthetic QR image dataset with two manipulation families
-- URL classifier trained on a public malicious-URL dataset
-- Repository includes code, training notebooks, and a dataset-generation script
+**Delivery.** FastAPI services, containerized with Docker and deployed on Render and AWS.
 
-<a href="https://github.com/Memona-hafeez/QRShield"><img src="https://img.shields.io/badge/View%20Repository-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="View repository" /></a>
+## Research
 
-</td>
-</tr>
-</table>
+**[QRShield](https://github.com/Memona-hafeez/QRShield)** examines a QR code from two angles: whether the image has been visually manipulated, and whether the URL it encodes is malicious. The repository provides the code, training notebooks, and a dataset-generation script.
 
-<br/>
+## Selected Work
 
-## Focus Areas
-
-| | |
+| Project | What it does |
 | :-- | :-- |
-| 🧠 **Natural Language Processing** | Text classification, transformers, embeddings, LLM-powered applications |
-| 🛡️ **AI Security** | Malicious URL detection, QR code tamper analysis, robust model evaluation |
-| ⚙️ **Applied ML Engineering** | Feature engineering, reproducible training, APIs and deployment |
-| 👁️ **Computer Vision** | Image manipulation detection, QR decoding and analysis |
+| [LinkedIn Comment Generator](https://github.com/Memona-hafeez/Linkedln_comment_generator-fined_tuned_GPT_4o_model-) | Writes context-aware comments using a fine-tuned GPT-4o and hybrid retrieval; deployed as a live service |
+| [Podcast Audio Intelligence](https://github.com/Memona-hafeez/Youtube_transcriber_vedio_audio_podcast_QA_rag_system) | Transcribes audio, extracts topics, identifies speakers, and answers questions over episodes |
+| [HealthHub AI](https://github.com/Memona-hafeez/HealthHub-AI--Multi-Specialist-Healthcare-Assistant) | Routes health questions to specialist knowledge using retrieval over structured data |
+| [Ollama RAG Chatbot](https://github.com/Memona-hafeez/Ollama-RAG-Chatbot-Document-Based-AI-Assistant-) | Private document assistant running entirely on local models |
+| [Multi-Agent Trip Advisor](https://github.com/Memona-hafeez/AI-Agents-Trip-Advisor) | Coordinates specialized agents for itinerary, budget, weather, and culture |
 
-<br/>
+## Stack
 
-## Tech Stack
+Python · FastAPI · LangChain · OpenAI · Pinecone · ChromaDB · Whisper · n8n · Docker · AWS · PyTorch · TensorFlow · scikit-learn
 
-<div align="center">
+## Background
 
-**Languages & Core**
-
-<img src="https://skillicons.dev/icons?i=python,cpp,js,bash&theme=dark" alt="Languages" />
-
-**ML & Data**
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,pandas,numpy,opencv&theme=dark" alt="ML and data" />
-
-**Backend & Tooling**
-
-<img src="https://skillicons.dev/icons?i=fastapi,flask,docker,git,github,linux,vscode&theme=dark" alt="Backend and tooling" />
-
-</div>
-
-<br/>
-
-## Let's Connect
-
-I am always glad to talk about NLP, AI security, and applied ML. Reach me on [LinkedIn](https://www.linkedin.com/in/Memona-Hafeez/), [X](https://x.com/MemonaBuilds), or by [email](mailto:memonahafeez12@gmail.com).
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:2563eb,50:1e3a8a,100:020617&section=footer" width="100%" alt="" />
+BS in Artificial Intelligence, Khwaja Fareed University of Engineering and Information Technology (2022 – 2026). Independent AI consultant since September 2024; earlier, an AI engineering internship at UrduX Foundation building Urdu speech and language tools.
