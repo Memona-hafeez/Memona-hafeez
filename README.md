@@ -1,4 +1,4 @@
-
+div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,50:0f3d3e,100:0f766e&height=220&section=header&text=Memona%20Hafeez&fontSize=50&fontColor=f8fafc&fontAlignY=38&desc=AI%20Engineer%20%7C%20RAG%20%7C%20LLM%20Agents%20%7C%20Automation&descAlignY=60&descSize=18&animation=fadeIn" width="100%" alt="Memona Hafeez - AI Engineer" />
 
@@ -22,13 +22,6 @@ intelligence, multi-agent systems, voice applications, and production APIs.
 I care about the engineering behind the demo: grounded answers, measurable
 retrieval quality, structured outputs, clear failure handling, and deployments
 that are practical to maintain.
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Memona-hafeez&show_icons=true&hide_border=true&bg_color=0b1220&title_color=5eead4&text_color=f8fafc&icon_color=5eead4&rank_icon=github&cache_seconds=86400" height="170" alt="Memona's GitHub statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Memona-hafeez&layout=compact&hide_border=true&bg_color=0b1220&title_color=5eead4&text_color=f8fafc&langs_count=6&cache_seconds=86400" height="170" alt="Top languages" />
-
-</div>
 
 ## What I build
 
