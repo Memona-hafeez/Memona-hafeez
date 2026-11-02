@@ -1,4 +1,4 @@
-div align="center">
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,50:0f3d3e,100:0f766e&height=220&section=header&text=Memona%20Hafeez&fontSize=50&fontColor=f8fafc&fontAlignY=38&desc=AI%20Engineer%20%7C%20RAG%20%7C%20LLM%20Agents%20%7C%20Automation&descAlignY=60&descSize=18&animation=fadeIn" width="100%" alt="Memona Hafeez - AI Engineer" />
 
